@@ -1,6 +1,6 @@
 #!/bin/bash
 
-set -e -u
+<<set -e -u
 
 sed -i 's/#/(en_us\.UTF-8)/\1/' /etc/locale.gen
 locale-gen
