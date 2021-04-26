@@ -140,7 +140,6 @@ arc-icon-theme
 alsa-plugins
 alsa-tools
 alsa-utils
-ffmpeg 
 pulseaudio
 pulseaudio-alsa
 lightdm
