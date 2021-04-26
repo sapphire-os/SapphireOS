@@ -139,7 +139,7 @@ arc-gtk-theme
 arc-icon-theme
 alsa-plugins
 alsa-tools
-alsa-utils
+alsa-utilsgit 
 pulseaudio
 pulseaudio-alsa
 lightdm
